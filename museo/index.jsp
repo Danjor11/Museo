@@ -16,9 +16,10 @@
         <ul>
             <!-- El enlace activo debe tener la clase "active" -->
             <li><a class="active" href="index.jsp">Inicio</a></li>
-            <li><a href="productos.jsp">Productos</a></li>
-            <li><a href="servicios.jsp">Servicios</a></li>
-            <li><a href="contacto.jsp">Contacto</a></li>
+            <li><a href="tickets.jsp">Venta de Tickets</a></li>
+            <li><a href="reservas.jsp">Reservas</a></li>
+            <li><a href="galería.jsp">Galería</a></li>
+            <li><a href="historia.jsp">Historia</a></li>
         </ul>
     </nav>
 
